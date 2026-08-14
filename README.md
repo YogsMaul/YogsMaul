@@ -1,12 +1,3 @@
-# YogsMaul
-
-> Memorable developer positioning.
-
-**Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
-
-## Header
-> Editing this section in the inspector.
-Hi, I'm **YogsMaul**. This README is tuned for **personal brand** with a Neon visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=YogsMaul&theme=neon&mode=light" />
